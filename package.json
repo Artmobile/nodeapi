@@ -1,0 +1,23 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artmobile/nodeapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artmobile/nodeapi/issues"
+  },
+  "homepage": "https://github.com/Artmobile/nodeapi#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "glob": "^7.1.2"
+  }
+}
